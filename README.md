@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-This is Higher Level Programming 
+This is Higher Level Programming
